@@ -1,3 +1,1 @@
-# jetson-det
-# jetson-det
-# jetson-det
+# Proyecto de detección de objetos utilizando Jetson Inference
